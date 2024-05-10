@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkurisu&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkurisu&hide=html](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkurisu&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+zKurisu's+homepage;A+noob+developer)](https://git.io/typing-svg)
